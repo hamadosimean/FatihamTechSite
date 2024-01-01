@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4d3a4e2.css",
+    "main.js": "/static/js/main.644ec998.js",
+    "static/media/shopbanniere.png": "/static/media/shopbanniere.32341893f1ab4839e2de.png",
+    "static/media/IMG_20230708_103550_228.jpg": "/static/media/IMG_20230708_103550_228.9c741764d7c2053df9d2.jpg",
+    "static/media/bg.jpg": "/static/media/bg.1e2171bf863433d64270.jpg",
+    "static/media/logo.jpg": "/static/media/logo.a78999a159791a931209.jpg",
+    "static/media/Excek_Dashboard.png": "/static/media/Excek_Dashboard.b60219319cb5f00dcf04.png",
+    "index.html": "/index.html",
+    "main.c4d3a4e2.css.map": "/static/css/main.c4d3a4e2.css.map",
+    "main.644ec998.js.map": "/static/js/main.644ec998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d3a4e2.css",
+    "static/js/main.644ec998.js"
+  ]
+}
